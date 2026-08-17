@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "350dc50485211259",
+    "type": "split",
+    "children": [
+      {
+        "id": "d104f193f7e41947",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01cc26ae751d8098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/64 quẻ/01 Bát Thuần Càn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Bát Thuần Càn"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4b1b2177a706892",
+    "type": "split",
+    "children": [
+      {
+        "id": "49256411a08f9248",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c706817854f6cf35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "48fa6c0b5e55e133",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "792d0893e10f4561",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42923d10ed8cb516",
+    "type": "split",
+    "children": [
+      {
+        "id": "62bc0b7b0320e9dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8d1e88818452cdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/Khái niệm/Lục thập tứ quái.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cf4b53b87e90c4e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/Khái niệm/Lục thập tứ quái.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0c7b91191ea3dd7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e21a92a18a587085",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "231b0973038b1727",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/Khái niệm/Lục thập tứ quái.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "01cc26ae751d8098",
+  "lastOpenFiles": [
+    "wiki/Khái niệm/Chu Dịch Thượng Kinh.md",
+    "wiki/Nguồn/Kinh Dịch Diễn Giảng — Kiều Xuân Dũng.md",
+    "wiki/Ứng dụng/Học thuyết Thủy Hỏa của Hải Thượng Lãn Ông.md",
+    "wiki/Khái niệm/Hà Đồ.md",
+    "wiki/Khái niệm/Lạc Thư.md",
+    "wiki/Khái niệm/Kinh Dịch.md",
+    "wiki/_Index.md",
+    "wiki/Nguồn/Nguồn tri thức Tử Vi — thứ tự ưu tiên.md.tmp.18952.3c9acf1927d6",
+    "wiki/Nguồn/Nguồn tri thức Tử Vi — thứ tự ưu tiên.md.tmp.18952.0911c22e8466",
+    "wiki/Tử Vi Đẩu Số/Luận đoán/Khẩu quyết mười hai cung — hợp cách và phá cách.md",
+    "wiki/Tử Vi Đẩu Số/Luận đoán/Khẩu quyết mười hai cung — hợp cách và phá cách.md.tmp.18952.2ea099be578d",
+    "wiki/Tử Vi Đẩu Số/Sao/Mức độ sáng của các sao.md.tmp.18952.08821aa47a65",
+    "Lá số/2001-04-04 Nam Tân Tỵ/2001-04-04 Nam Tân Tỵ — Luận giải.md",
+    "Lá số/2001-04-04 Nam Tân Tỵ/2001-04-04 Nam Tân Tỵ — Luận giải.md.tmp.14172.ce3997cd6b32",
+    "wiki/Tử Vi Đẩu Số/Sao/Mức độ sáng của các sao.md.tmp.18952.5d8d907dcb33",
+    "wiki/Tử Vi Đẩu Số/Sao/Mức độ sáng của các sao.md.tmp.18952.22477cbcccd9",
+    "Lá số/2001-04-04 Nam Tân Tỵ/2001-04-04 Nam Tân Tỵ — Lá số.png",
+    "Lá số/2001-04-04 Nam Tân Tỵ/2001-04-04 Nam Tân Tỵ — Lá số.html",
+    "Lá số/2001-04-04 Nam Tân Tỵ/2001-04-04 Nam Tân Tỵ — Lá số.html.tmp.14172.b9f9686ce36a",
+    "Lá số/2001-04-04 Nam Tân Tỵ",
+    "Lá số/2001-03-02 Nam Tân Tỵ/2001-03-02 Nam Tân Tỵ — Luận giải.md",
+    "Lá số/2001-03-02 Nam Tân Tỵ/2001-03-02 Nam Tân Tỵ — Lá số.png",
+    "Lá số/_Mẫu/Mẫu luận giải.md",
+    "Lá số/_Danh sách lá số.md",
+    "Lá số/2001-03-02 Nam Tân Tỵ/Lá số.png",
+    "wiki/Nguồn/Nguồn tri thức Tử Vi — thứ tự ưu tiên.md",
+    "wiki/Khái niệm/Hậu Thiên Bát Quái.md",
+    "wiki/64 quẻ/09 Phong Thiên Tiểu Súc.md",
+    "wiki/Ứng dụng/Gieo quẻ và bấm độn.md",
+    "wiki/64 quẻ/01 Bát Thuần Càn.md",
+    "wiki/64 quẻ/16 Lôi Địa Dự.md",
+    "wiki/Bát quái/Càn.md",
+    "wiki/Khái niệm/Thuyết Lục Tử.md",
+    "wiki/Lục Hào/Vượng suy theo tứ thời.md",
+    "wiki/Hà Lạc/Lời đoán/09 Phong Thiên Tiểu Súc — Hà Lạc.md",
+    "wiki/Tử Vi Đẩu Số/Khái niệm/Trần Đoàn và lịch sử Tử Vi Đẩu Số.md",
+    "wiki/Hà Lạc/Lời đoán/08 Thủy Địa Tỷ — Hà Lạc.md",
+    "wiki/Hà Lạc/Lời đoán/07 Địa Thủy Sư — Hà Lạc.md",
+    "wiki/Hà Lạc/Lời đoán/06 Thiên Thủy Tụng — Hà Lạc.md",
+    "wiki/Nguồn/ocr-raw/nhantuong_toc_8.png",
+    "wiki/Nguồn/ocr-raw/nhantuong_toc_7.png",
+    "wiki/Nguồn/ocr-raw/nhantuong_toc_6.png",
+    "wiki/Nguồn/ocr-raw/nhantuong_toc_5.png",
+    "wiki/Nguồn/ocr-raw/nhantuong_toc_4.png",
+    "wiki/Nguồn/ocr-raw/nhantuong_toc_3.png",
+    "wiki/Nguồn/ocr-raw/nhantuong_toc_2.png",
+    "Untitled.canvas"
+  ]
+}
