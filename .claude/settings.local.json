@@ -1,0 +1,77 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(wc:*)",
+      "Bash(du:*)",
+      "Bash(cat:*)",
+      "Bash(awk:*)",
+      "Bash(sort:*)",
+      "Bash(cd:*)",
+      "Bash(echo:*)",
+      "Bash(sed -n:*)",
+      "Bash(where:*)",
+      "Bash(export PYTHONUTF8=1 PYTHONIOENCODING=utf-8)",
+      "Bash(PYTHONUTF8=1 python:*)",
+      "Bash(PYTHONUTF8=1 OMP_NUM_THREADS=2 python:*)",
+      "Bash(PYTHONUTF8=1 OMP_NUM_THREADS=3 python:*)",
+      "Bash(PYTHONUTF8=1 OMP_NUM_THREADS=4 python:*)",
+      "Bash(python .tools/build_index.py)",
+      "Bash(python -c:*)",
+      "Bash(pip install --user:*)",
+      "Bash(PYTHONUTF8=1 pip install --user:*)",
+      "Bash(\"/c/Program Files/Tesseract-OCR/tesseract.exe\":*)",
+      "PowerShell(Get-ChildItem:*)",
+      "PowerShell(Select-String:*)",
+      "PowerShell(Get-Content:*)",
+      "PowerShell(Get-Process:*)",
+      "Read(claude-source/**)",
+      "Read(_audit/**)",
+      "Read(_extract/**)",
+      "Read(//c/Program Files/**)",
+      "PowerShell($env:PYTHONUTF8=1; Set-Location \"D:\\\\claude\\\\claude-source\"; python .tools/build_index.py 2>&1 | Select-Object -Last 5)",
+      "Bash(PYTHONUTF8=1 python -c \" *)",
+      "Bash(echo \"mtime index sau khi Edit note:\" && stat -c '%y' claude-source/wiki/_Index.md && echo \"--- alias thu nghiem co trong index khong? ---\" && grep -c \"ZZZ-thu-hook\" claude-source/wiki/_Index.md)",
+      "Bash(cd \"D:/claude/claude-source/wiki/Tử Vi Đẩu Số/Khái niệm\" && sed -n '/ba bàn/,/^## /p' \"Trần Đoàn và lịch sử Tử Vi Đẩu Số.md\" | head -40)",
+      "PowerShell($env:PYTHONUTF8=1; Set-Location \"D:\\\\claude\\\\claude-source\"; python .tools/build_index.py 2>&1 | Select-Object -Last 3)",
+      "WebSearch",
+      "WebFetch(domain:bocdich.com)",
+      "WebFetch(domain:goigioheomayhameomeo.blogspot.com)",
+      "WebFetch(domain:tuvi.cohoc.net)",
+      "Bash(sed -n '/Bảng tra nhanh/,/^> \\\\[!important\\\\]/p' \"Lá số/Lập lá số — chuẩn bị và khung mười hai cung.md\")",
+      "Bash(sed -n '/Lưu Khôi/,/Lưu Xương/p' \"Lá số/An sao lưu niên.md\")",
+      "Bash(node scripts/validate_palette.js \"#2a78d6,#d03b3b,#008300,#4a3aa7,#eda100\" --mode light --pairs all)",
+      "Bash(node scripts/validate_palette.js \"#3987e5,#d03b3b,#199e70,#9085e9,#c98500\" --mode dark --pairs all)",
+      "Bash(node scripts/validate_palette.js \"#2a78d6,#d03b3b,#1baf7a,#eda100\" --mode light --pairs all)",
+      "PowerShell($base = \"D:\\\\claude\\\\claude-source\\\\Lá số\"; New-Item -ItemType Directory -Force -Path \"$base\\\\_Mẫu\", \"$base\\\\2001-03-02 Nam Tân Tỵ\" | Out-Null; Move-Item \"D:\\\\claude\\\\la-so-tu-vi.html\" \"$base\\\\2001-03-02 Nam Tân Tỵ\\\\Lá số.html\" -Force; Move-Item \"D:\\\\claude\\\\la-so-tu-vi.png\" \"$base\\\\2001-03-02 Nam Tân Tỵ\\\\Lá số.png\" -Force; Get-ChildItem $base -Recurse | Select-Object FullName)",
+      "PowerShell($d = \"D:\\\\claude\\\\claude-source\\\\Lá số\\\\2001-03-02 Nam Tân Tỵ\"; Rename-Item \"$d\\\\Lá số.html\" \"2001-03-02 Nam Tân Tỵ — Lá số.html\"; Rename-Item \"$d\\\\Lá số.png\" \"2001-03-02 Nam Tân Tỵ — Lá số.png\"; Get-ChildItem $d | Select-Object Name)",
+      "Bash(cat > *)",
+      "PowerShell($env:PYTHONUTF8=1; python \"C:\\\\Users\\\\JARVIS\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\D--claude\\\\4711395d-c9b7-4c53-b526-49f37b8d867f\\\\scratchpad\\\\ansao.py\" 2>&1 | Select-Object -First 30)",
+      "PowerShell(Select-String -Path \"D:\\\\claude\\\\claude-source\\\\nguồn thô\\\\_ocr\\\\tuvi_ocr_raw.md\" -Pattern \"^## |^# |Trang \" | Select-Object -First 15 | ForEach-Object { \"$\\($_.LineNumber\\): $\\($_.Line\\)\" })",
+      "Bash(TESSDATA_PREFIX=\"D:/claude/.tessdata\" \"/c/Program Files/Tesseract-OCR/tesseract.exe\" _p.png _p -l vie --psm 6 tsv)"
+    ],
+    "deny": [
+      "Read(claude-source/nguồn thô/_ocr/*_ocr_raw*.md)",
+      "Read(claude-source/wiki/Nguồn/ocr-raw/**)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "grep -qiE 'claude-source[\\\\/]+wiki[\\\\/]+.*\\.md' && PYTHONUTF8=1 python \"D:/claude/claude-source/.tools/build_index.py\" >/dev/null 2>&1 || true",
+            "timeout": 30,
+            "statusMessage": "Cập nhật chỉ mục wiki"
+          }
+        ]
+      }
+    ]
+  }
+}

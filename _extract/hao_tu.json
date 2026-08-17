@@ -1,0 +1,2253 @@
+{
+ "1": {
+  "ntt_name": "KIỀN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Tiềm long vật dụng",
+    "nghia": "Rồng lặn chớ dùng"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Hiện long tại điền, lợi kiến đại nhân",
+    "nghia": "Rồng hiện ở ruộng, lợi về sự thấy người lớn"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Quân tử chung nhật kiến kiền, tịch Dịch nhược! Lệ, vô cữu",
+    "nghia": "Đấng quân tử trọn ngày săng sắc, tối dương rùng rợn. Nguy! Không lỗi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Long phi tại thiên, lợi kiến đại nhân",
+    "nghia": "Rồng bay ở trời, lợi về sự thấy người lớn"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Kháng long hữu hối",
+    "nghia": "Rồng quá cực có ăn năn"
+   },
+   "7": {
+    "ten": "Dụng Cửu",
+    "am": "Kiền quần long vô thủ, cát",
+    "nghia": "Thấy đàn rồng không đầu, tốt!"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Hoặc dược tại uyên, vô cữu, hà dị dã? Tử viết: Thượng hạ vô thường, phi vi tà dã; tiến thoái vô hằng, phi ly quần dã; quân tử tiến đức tu nghiệp, dục cập thì dã, cố vô cứu",
+    "nghia": "Hào Chín Tư nói: “Hoặc nhảy ở vực, không có lỗi”, là nghĩa"
+   }
+  }
+ },
+ "2": {
+  "ntt_name": "KHÔN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "lý sương, kiên băng chí",
+    "nghia": "Xéo sương, váng rắn tới"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Trực, phương, đại, bất tập, vô bất lợi",
+    "nghia": "Thẳng, vuông, lớn, không phải tập, không gì không lợi"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Hàm chương khả trinh; hoặc tòng vương sự, vô thành hữu chung",
+    "nghia": "Ngậm văn vẻ, có thể chính; hoặc theo đuổi việc nhà vua, không cậy công? Thì được tốt lành về sau"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Quát nang, vô cữu, vô dự",
+    "nghia": "Thắt túi, không lỗi, không khen"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Hoàng thường, nguyên cát",
+    "nghia": "Quần vàng, cả tốt"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Long chiến vu dã, kỳ huyết huyền hoàng",
+    "nghia": "Rồng đánh nhau ở đồng, máu nó xanh vàng"
+   },
+   "7": {
+    "ten": "Dụng Lục",
+    "am": "Lợi vĩnh trinh",
+    "nghia": "Lợi về vĩnh viễn chính đính"
+   }
+  }
+ },
+ "3": {
+  "ntt_name": "TRUÂN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Bàn hoàn, lợi cư trinh, lợi kiến hầu",
+    "nghia": "Quanh co, lợi về ở chính bền, lợi về dựng tước hầu"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Truân như, chiên như, thừa mã ban như! Phỉ khẩu, hôn cấu. Nữ tử trinh bất tự, thập niên nãi tự",
+    "nghia": "Dường quanh co vậy, đường cưỡi ngựa rẽ ra vậy. Chẳng phải giặc: dâu gia. Con gái trinh tiết không đặt tên chữ, mười năm mới đặt tên chữ"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Tức lộc vô ngu, duy nhập vu lâm trung, quân tử cơ bất như xả, vãng lận",
+    "nghia": "Theo hươu không có ngu nhân, chỉ vào trong rừng. Đấng quân tử biết cơ, không bằng bỏ đi thì hối tiếc"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Thừa mã ban như, cầu hôn cấu, vãng cát, vô bất lợi",
+    "nghia": "Cưỡi ngựa dường rẽ ra vậy, tìm dâu gia, đi thì tốt, không gì không lợi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Truân kỳ cao, tiểu trinh cát, đại trinh hung",
+    "nghia": "Gian truân thửa ơn huệ, nhỏ mà trinh thì lành, lớn mà trinh thì dữ"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Thừa mã ban như, khấp huyết liên như",
+    "nghia": "Cưỡi ngựa dường rẽ ra vậy; khóc ra máu đầm đìa vậy"
+   }
+  }
+ },
+ "4": {
+  "ntt_name": "MÔNG",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Phát mông, lợi dụng hình nhân, dụng thoát chất cốc, dĩ vãng, lận",
+    "nghia": "Mở mang trẻ thơ, lợi dùng về sự hình phạt người ta để thoát gông cùm, đi thì hối tiếc"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Bao Mông, cát! Nạp phụ, cát Tử khắc gia",
+    "nghia": "Bao dung trẻ thơ, tốt! Nộp vợ, tốt! Con trị nhà!"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Vật dụng thử nữ, kiến kim phu, bất hữu cung, vô du lợi",
+    "nghia": "Chớ dừng lấy gái, thây chồng vàng không có mình, không thửa lợi"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Khẩn mông, lận",
+    "nghia": "Khốn về tăm tối, hối tiếc"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Đồng mông, cát!",
+    "nghia": "Trẻ thơ, tốt!"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Kích mông, bất lợi vi khấu, lợi ngự khấu",
+    "nghia": "Đánh kẻ tối tăm, không lợi cho sự làm giặc"
+   }
+  }
+ },
+ "5": {
+  "ntt_name": "NHU",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Nhu vu giao, lợi dụng hằng, vô cữu",
+    "nghia": "Đợi ở đồng, lợi về dùng lẽ hằng. Không có lỗi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Nhu vu sa, tiểu hữu ngôn, chung cát",
+    "nghia": "Đợi ở bãi cát, hơi có điều tiếng, sau chót tốt"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Nhu vu nê, trí khâu chí",
+    "nghia": "Đợi ở bùn, dắt gỉặc đến"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Nhu vu huyết, xuất tự huyệt",
+    "nghia": "Đợi chưng máu, ra tự hang"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Nhu vu tử thực, trinh cát",
+    "nghia": "Đợi chưng rượu cơm, chính tốt!"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Nhập vu huyệt, hữu bất tốc chi khách tam nhân lại, kinh chi, chung cát",
+    "nghia": "Vào chung hang, có ba người khách không mời mà đến, kính trọng họ, sau chót tốt"
+   }
+  }
+ },
+ "6": {
+  "ntt_name": "TỤNG",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Bất vĩnh sở sự, tiểu hữu ngôn, chung cát",
+    "nghia": "Chẳng lâu dài về việc của mình, hơi có điều tiếng, sau tốt"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Bất khắc tụng, quỉ nhi bộ, kỳ ấp nhân tam bách hộ, vô sảnh",
+    "nghia": "Không được kiện, về mà trốn người làng mình ba trăm hộ, không có tội lỗi"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Thực cực đức, trinh lệ, chung cát hoặc cống vương sự, vô thành",
+    "nghia": "Ăn về đức cũ, chính bền, lo sợ sau tốt, hoặc theo việc vua, không thành"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Bất khắc tụng, phục tức mệnh, thầu an trinh cát",
+    "nghia": "Không thể kiện, lại theo mệnh đổi ra yên bề chính bền, tốt!"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Tụng nguyên cát",
+    "nghia": "Kiện cả tốt"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Hoặc tích chi bàn đái, chung triêu tam trĩ chi",
+    "nghia": "hoặc cho chiếc dải lưng da, trọn buổi sáng, ba lần lột lại"
+   }
+  }
+ },
+ "7": {
+  "ntt_name": "SƯ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Sư xuất dĩ luật, phủ tang, hung",
+    "nghia": "Quân ra bằng luật, không khéo thì hung"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Tại Sư trung cát, vộ cữu, vương tam tích mệnh",
+    "nghia": "Ở trong quân, vừa phải thì tốt, không lỗi, nhà"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Sư„ hoặc dư thi, hung",
+    "nghia": "Quân hoặc khiêng thây, hung"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Sư tả thứ, vô cữu",
+    "nghia": "Quân lùi đóng, không lỗi"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Điền hữu cầm, lợi chấp ngôn, vô cữu, trường tử suất sư, đệ tử dư thi, trinh hung",
+    "nghia": "Ruộng có chim, lợi chữ sự có lời để nói. Con cả đem quân, con em khiêng thây, chinh cũng hung"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Đại quân hữu mệnh, khai quốc thừa gia, tiểu nhân vật dụng",
+    "nghia": "Đấng đại quân có mệnh, mở nước vâng nhà, kẻ tiểu nhân chớ dùng"
+   }
+  }
+ },
+ "8": {
+  "ntt_name": "TỴ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Hữu phu, tỵ chi, vô cữu. Hữu phu doanh phẫu, chung lai",
+    "nghia": "Có tin, liền lại đó, không lỗi. Có tin đầy chậu, trọn lại có sự tốt khác"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Tỵ chi tự nội, trinh cát",
+    "nghia": "Liền lại tự bên trong, chính và tốt"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Tỵ chi phỉ nhân",
+    "nghia": "Liền với người không đáng liền"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Ngoại tỵ chi, trinh cát",
+    "nghia": "Kẻ ngoài liền lại với, chính tốt!"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Hiền tỵ, vương dụng tam khu, thất tiền cầm, ấp nhân bất giới, cát",
+    "nghia": "Rõ rệt liền lại, nhà vua dùng đuổi ba mặt, mất con chim ở phía trước người làng không bảo, tốt"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Tỵ chi vô thủ, hung",
+    "nghia": "Gần liền không đầu, hung"
+   }
+  }
+ },
+ "9": {
+  "ntt_name": "TIỂU SÚC",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Phục tự đạo, hà kỳ cữu? Cát",
+    "nghia": "Trở lại từ đường, còn lỗi gì? Tốt!"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Dư thoát bức, phu thê phản mục",
+    "nghia": "Xe trụt bánh, chồng vợ trở mắt"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Hữu phu, huyết khứ, dịch xuất, vô cữu",
+    "nghia": "Có tin, máu đi, sợ ra, không lỗi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Hữu phu loan như, phú dĩ kỳ lân",
+    "nghia": "Có tin, dường co quẹo vậy, giàu vì láng giềng"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Ký vũ, ký xử, thượng đức tái, phụ trinh lệ, Nguyện cơ vọng, quân tử chinh hung",
+    "nghia": "Đã mưa, đã ở, chuộng đức chở, đàn bà chính bên, nguy! Mặt trăng hầu đến tuần vọng, đấng quân tử đi thì hung"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Khiên phục, cát",
+    "nghia": "Giật trở lại, tốt"
+   }
+  }
+ },
+ "10": {
+  "ntt_name": "LÝ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Tố lý, vãng vô cữu",
+    "nghia": "Xéo theo sự vốn có, đi, không lỗi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Lý đạo thản thản, u nhân trinh cát",
+    "nghia": "Xéo đường bằng phẳng, người uẩn chính bền thì tốt"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Diểu năng thị, bí năng lý, lý hổ vĩ, chất nhân hung, vũ nhân vi vu đại quân",
+    "nghia": "Chột biết trông, què biết xéo, xéo đuôi cọp, cắn người, hung. Kẻ vũ nhân làm đấng đại quân"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Lý hổ vỹ, tố tố chung cát",
+    "nghia": "Xéo đuôi cọp, nơm nớp, sau chót tốt"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Quải lý, trinh lệ",
+    "nghia": "Quyết xéo, chính bền nguy!"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Thị lý khảo tường, kỳ tuyền nguyên cát",
+    "nghia": "Coi sự xéo, xét điềm lành thửa quanh cả tốt"
+   }
+  }
+ },
+ "11": {
+  "ntt_name": "THÁI",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Bạt mao nhự, dĩ kỳ vâng, chỉnh cắt",
+    "nghia": "Nhổ cụm cỏ tranh, lấy vầng nó, đi tốt"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Bao Hoang, dụng bằng hà, bất hà dĩ, bằng vong, đắc thượng vu trung hàng",
+    "nghia": "Bao dung sự hoang rậm, dùng để tay không lội sông, không sót việc xa; bè cánh mất, được sánh ở hàng giữa"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Vô bình bất bi vô vãng bất phục, gian trinh, vô cữu, vật tuất kỳ phu, vu thực hữu phúc",
+    "nghia": "Không chỗ bằng phẳng nào không lồi lõm, không sự đi nào không trở lại. Khó nhọc, chính bền, chớ lo thừa sự tín, chưng việc ăn hưởng có phúc"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Phiên phiên, bất phú dĩ kỳ lân; bất gìới dĩ phu",
+    "nghia": "Phơi phới, chẳng giàu lấy thửa láng giềng, chẳng răn lấy tin"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Đế Ất quy muội, dĩ chỉ, nguyên cát",
+    "nghia": "Vua Đế Ất gả em gái, để có phúc cảtốt"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Thành phục vu hoàng, vật dụng sư, tự ấp cáo mệnh, trinh lận!",
+    "nghia": "Thành trở về rãnh, chớ dùng quân tự ấp bảo mệnh, chính bền thẹn tiếc. GIẢINGHĨA"
+   }
+  }
+ },
+ "12": {
+  "ntt_name": "BĨ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Bạt mao nhự dĩ kỳ vựng, trinh, cát hanh",
+    "nghia": "Nhổ cụm cỏ tranh, lấy vầng nó, chính bền tốt lành hanh thông"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Bao thừa, tiểu nhân cát, đại nhân bĩ, hanh",
+    "nghia": "Bọc chứa sự vâng thuận, kẻ tiểu nhân tốt, đấng đại nhân bĩ, thì hanh thông"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Bao tu",
+    "nghia": "Bọc chứa sự hổ thẹn"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Hữu mệnh vô cữu, trù ly chỉ",
+    "nghia": "Có mệnh không lỗi, bè loại dính phúc"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Hưu phủ, đại nhân cát, kỳ vong, kỳ vong! Hệ vu bào tang",
+    "nghia": "Nghĩ bĩ, đấng đại nhân tốt. Này mất! Này mất! Buộc cây dâu rậm"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Khuynh bĩ, tiên bĩ hậu hỷ",
+    "nghia": "Nghiêng bĩ, trước bĩ sau mừng"
+   }
+  }
+ },
+ "13": {
+  "ntt_name": "ĐỒNG NHÂN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Đồng nhân vu môn, vô cữu",
+    "nghia": "Cùng người ở cửa, không lỗi"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Đồng nhàn vu tông, lận",
+    "nghia": "Cùng người ở họ, đáng tiếc"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Phục nhung vu măng, thăng kỳ cao lăng, tam tuế bất hưng",
+    "nghia": "Phục quân ở rừng, lên thửa gò cao, ba năm không dấy lên"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Đồng nhân, tiên hào diếu nhi hậu tiếu, đại sự khắc",
+    "nghia": "Cùng với người, trước kêu gào mà sau cười, quân lớn được, gặp nhau"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Đồng nhân vu giao, vô hối",
+    "nghia": "Cùng người ở đồng, không ăn năn"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Thừa kỳ dung, phất khắc công, cát",
+    "nghia": "Cưỡi thừa tường, không đánh được,tốt"
+   }
+  }
+ },
+ "14": {
+  "ntt_name": "ĐẠI HỮU",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Vô giao hại, phỉ cữu, nan tắc vô cữu",
+    "nghia": "Không dính tới sự hại, chẳng phải lỗi. Khó nhọc thì không lỗi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Đại xa dĩ tái, hữu du văng, vô cữu",
+    "nghia": "Xe lớn để chở, có thừa đi, không lỗi"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Công dụng hưởng vu thiên tử, tiểu nhân phất khắc",
+    "nghia": "Tước Công dùng hưởng của đấng thiên tử, kẻ tiểu nhân không thể được"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Tự thiên hựu chi, cát, vô bất lợi",
+    "nghia": "Tự trời giúp nó, tốt, không gì không lợi"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Phỉ kỳ bàng, vô cữu",
+    "nghia": "Chẳng phải sự thịnh của mình; không lỗi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Quyết phu giao như, uy như, cát",
+    "nghia": "Thửa tin dường giao nhau vậy, dường oai nghiêm vây, tốt"
+   }
+  }
+ },
+ "15": {
+  "ntt_name": "KHIÊM",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Khiêm khiêm, quân tử, đụng thiệp đại xuyên,cát",
+    "nghia": "Đấng quân tử nhún nhún, dùng sang sông lớn, tốt"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Minh khiêm, trinh cát",
+    "nghia": "Kiêu sự nhún, chính bền, tốt"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Lao khiêm, quân tử hữu chung, cát",
+    "nghia": "Đấng quân tử nhọc mà nhún, sau chót, tốt"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Vô bất lợi, vi khiêm",
+    "nghia": "Không gì không lợi, vung vẩy sự nhún"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Bất phú dĩ kỳ lân, lợi dụng xâm phạt, vô bất lợi",
+    "nghia": "Không giàu, sai khiến được láng giềng, lợi dụng lấn đánh, không gì không lợi"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Minh khiêm, lợi dụng hành sư chính ấp quốc",
+    "nghia": "Kêu sự nhún, lợi dụng trẩy quân đánh làng nước"
+   }
+  }
+ },
+ "16": {
+  "ntt_name": "DỰ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Minh dự, hung",
+    "nghia": "kêu sự vui, hung!"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Giới vu thạch, bất chung nhật, trinh cát",
+    "nghia": "tiết tháo như đá, không trọn ngày, chính bền thì tốt"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Vu dự hối trì, hữu hối",
+    "nghia": "Nhìn sự vui, ăn năn chậm, có ăn năn"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Do dự, đại hữu đắc, vật nghi, bằng hạp châm",
+    "nghia": "Bởi đó là vui, cả có được, chớ nghi ngờ, bè bạn tụ họp"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Trinh tật, hằng bất tử",
+    "nghia": "Chính bền có tật, thường không chết"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Minh dự thành, hữu thâu, vô cứu",
+    "nghia": "Lời Tượng nói rằng: Mờ tối về sự vui, việc thành rồi, có thay đổi, không lỗi"
+   }
+  }
+ },
+ "17": {
+  "ntt_name": "TÙY",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Quan hữu thâu, trinh cát, xuất môn giao hữu công",
+    "nghia": "Quan có thay đổi, chính thì tốt, ra cửa kết bạn thì có công"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Hệ tiểu tử, thất trượng phu",
+    "nghia": "Quâi quít kẻ tiểu tử, mất đấng trượng phu"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Hệ trượng phu, thất tiểu tử, tùy hữu cầu, đắc lợi, cự trinh",
+    "nghia": "Quấn quít đấng trượng phu, mất kẻ tiểu tử, theo mà có tìm, lợi về ở trinh"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Tùy hữu hoạch, trinh hung, hữu phu, tại đạo, dĩ minh, hà cữu?",
+    "nghia": "Theo có được, chính mà hung; có tin, ở đạo, dùng sáng, lỗi gì?"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Câu hệ chi, nải tòng duy chi, vương dụng hưởng vu Tây sơn",
+    "nghia": "Cầm buộc đó, bèn theo ràng đó, vua dùng hưởng ở non Tây"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Phu vu gia, cát",
+    "nghia": "Tin về kẻ lành, tốt"
+   }
+  }
+ },
+ "18": {
+  "ntt_name": "CỔ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Cán phụ chi cổ, hữu tử, khảo vô cữu, lệ, chung cát",
+    "nghia": "Cán đáng cuộc cổ của cha, có con, cho không"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Cán phụ chi cổ, tiểu hữu hối, vô đại cữu",
+    "nghia": "Cán đáng sự cổ của cha, hơi có ăn năn, không có lỗi lớn"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Dụ phụ chi cổ, vãng kiến lận",
+    "nghia": "Rộng rãi với sự cổ của cha, đi thấy tiếc"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Cán phụ chi cổ, dụng dự",
+    "nghia": "Cán đáng sự cổ của cha, dùng nhen"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Bất sự vương hầu, cao thượng kỳ sự",
+    "nghia": "Chẳng thờ tước vương tước hầu, cao nâng thửa việc"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Cán mẫu chi cổ, bất khả trinh",
+    "nghia": "Cán đáng sự cổ của mẹ, không thể trinh"
+   }
+  }
+ },
+ "19": {
+  "ntt_name": "LÂM",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Hàm lâm, trình cát",
+    "nghia": "Đều tới, chính tốt"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Hàm lâm, cát, vô bất lợi",
+    "nghia": "Đều tới, tốt, không gi không lợi"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Cam Lâm, vô do lợi, ký ưu chi, vô cữu",
+    "nghia": "Ngọt tới, không thửa lợi, đã lo đó, không lỗi"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Chí lâm, vô cữu",
+    "nghia": "Rất tới, không lỗi"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Trí lâm, đại quân chi nghi, cát!",
+    "nghia": "Khôn tới, sự nên của vua cả, tốt!"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Đôn lâm, cát, vô cữu",
+    "nghia": "Dầy tới, tốt, không lỗi"
+   }
+  }
+ },
+ "20": {
+  "ntt_name": "QUÁN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Đồng quán, tiểu nhân vô cữu, quân tử lận",
+    "nghia": "Trẻ xem, kẻ tiểu nhân không lỗi, đấng quân tử đáng tiếc"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Khuy quan, lợi nữ trinh",
+    "nghia": "Nhòm xem, lợi về sự trinh của con gái"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Quan ngã sinh tiến thoái",
+    "nghia": "Xem ta sinh tiến lui"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Quạn quốc chi quang, lợi dụng tân vu vương",
+    "nghia": "Xem sự sáng láng của nước, lợi dụng làm khách chưng vua"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Quan ngã sinh, quân tử vô cữu",
+    "nghia": "Xem ta sinh, quân tử, không lỗi"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Quan kỳ sinh, quân tử vô cữu",
+    "nghia": "Xem thửa sinh, quân tử không lỗi"
+   }
+  }
+ },
+ "21": {
+  "ntt_name": "PHỆ HẠP",
+  "haos": {
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Phệ phu, diệt ty, vô cữu",
+    "nghia": "Cắn da, dứt mũi, không lỗi"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Phệ tích nhục, ngộ độc tiểu lận, vô cữu",
+    "nghia": "cắn mắm khô, gặp độc, hơi tiếc, không lỗi"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Phệ can tỷ, đắc kim thỉ, lợi gian trình, cát!",
+    "nghia": "Cắn chạo khô, được tên vàng, lợi về khó nhọc, chính bền tốt"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Phệ can nhục, đắc hoàng kim, trinh lệ, vô cữu",
+    "nghia": "Cắn thịt khô, được vàng vàng, chính bền, lo sợ, không lỗi"
+   },
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Lý hiệu, diệt chỉ, vô cữu",
+    "nghia": "Xéo xiềng, đứt ngón chân, không lỗi"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Hạ hiệu, diệt nhĩ, hung!",
+    "nghia": "Đội xiềng, đứt tai, hung!"
+   }
+  }
+ },
+ "22": {
+  "ntt_name": "BÍ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Bí kỳ chỉ, xả xa nhi đồ",
+    "nghia": "Trang sức thửa ngón chân, bỏ xe mà đi không"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Bí kỳ tu",
+    "nghia": "Trang sức cái râu của mình"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Bí như, nhu như, vĩnh trinh, cát",
+    "nghia": "Rõ ràng vậy,bóng mượt vậy; mãi mãi chính bền tốc"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Bí như, phan như, bạch mâ hản nhưĩ Phì khấu, hôn câu",
+    "nghia": "Rỡ ràng vậy, phơ phơ vậy, ngựa trắng có cánh vậy. Chẳng phải giặc, dâu gia"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Bí vu khâu viênt thúc bạch tiên tiên, lận chung cát",
+    "nghia": "Trang sức ở gò vườn, bó lụa mỏng hẹp, đáng tiếc, sau chót tốt"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Bạch bi, vô cữu",
+    "nghia": "Trang sức bằng màu trắng, không lỗi"
+   }
+  }
+ },
+ "23": {
+  "ntt_name": "BÁC",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Bác sàng dĩ túc, miệt trinh, hung",
+    "nghia": "Đẽo giường bằng chân, không trinh, hung"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Bác sàng dĩ biện, miệt trinh hung",
+    "nghia": "Đẽo giường bằng bễ, chẳng trinh, hung!"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Bác chi, vô cữu",
+    "nghia": "Đẽo đó, không lỗi"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Bác sàng dĩ phu, hung!",
+    "nghia": "Đẽo giường bằng da, hung!"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Thạc quả bất thực, quân tử đắc dư, tiểu nhân bác lư",
+    "nghia": "Trái lớn không ăn, đấng quân tử được xe, kẻ tiểu nhân đẽo nhà"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Quán ngư dĩ cung nhân sủng, vô bất lợi",
+    "nghia": "Xâu cá; lấy cung nhân được yên, không gì không lợi"
+   }
+  }
+ },
+ "24": {
+  "ntt_name": "PHỤC",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Bất viễn phục, vô chỉ hối, nguyên cát",
+    "nghia": "Chẳng xa trở lại, không đến ăn năn, cả tốt"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Hưu phục cát!",
+    "nghia": "Đẹp sự trở lại, tốt!"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Tần phục lệ, vô cữu",
+    "nghia": "Luôn luôn trở lại, nguy! Không lỗi"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Trung hành độc phục",
+    "nghia": "Đi giữa một mình trở lại"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Đôn phục, vô hối",
+    "nghia": "Dốc lòng về sự trở lại,không phải ăn năn"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Mê phục, hung, hữu tai sảnh, dụng hành sư, chung hữu đại bại; dĩ kỳ quốc quân,hung, chí vu thập niên, bất khắc chính",
+    "nghia": "Lú lấp sự trở lại, hung! Có vạ tội, dùng để trẩy quân, sau chót có thua lớn; tới cả vua nước đó, đến chừng mười năm, không thể đi"
+   }
+  }
+ },
+ "25": {
+  "ntt_name": "VÔ VỌNG",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Vô vọng vãng cát",
+    "nghia": "Không càn, đi tốt"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Vô vọng chi tai, hoặc hệ chi ngưu, hành nhân chi đắc, ấp nhân chi tai",
+    "nghia": "Cái hại của sự không càn, hoặc buộc con trâu, kẻ đi đường mà được, người ấp bị hại"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Khả trinh, vô cữu",
+    "nghia": "Khả trinh, không lỗi"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Vô Vọng hành, hữu sảnh, vô du lợi",
+    "nghia": "Không càn mà đi, có tội, không thửa lợi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Bất canh hoạch, bất tri dư, tắc lợi hữu du vãng",
+    "nghia": "Chẳng cây, gặt; chẳng ngả, ngấu thì lợi có thửa đi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Vô vọng chi tật, vật dược, hữu hỷ",
+    "nghia": "Cái tật không càn, đừng thuốc, có mừng"
+   }
+  }
+ },
+ "26": {
+  "ntt_name": "ĐẠI SÚC",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Hữu lệ, lợi dĩ",
+    "nghia": "Có nguy, lợi thôi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Dư thoát bức",
+    "nghia": "Xe trút bánh"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Lương mã trục, lợi gian trinh, nhật nhàn dư vệ, lợi hữu du vàng",
+    "nghia": "Ngựa hay ruổi, ngày quen xe, lại có thửa đi"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Đồng ngưu chi cốc, nguyên cát",
+    "nghia": "Cái cùm trâu non, cả tốt"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Phần thi chi nha, cát",
+    "nghia": "Nanh con lợn thiến, tốt"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Hà thiên chí cù hanh",
+    "nghia": "Sao đường trời hanh"
+   }
+  }
+ },
+ "27": {
+  "ntt_name": "DI",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Xả nhĩ linh quy, quan ngã đóa di, hung",
+    "nghia": "Bỏ con rùa thiêng của mày, xem ta trễ mép, hung!"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Điên di, phất kinh vu khâu, chinh hung dã",
+    "nghia": "Đảo nuôi, trái thường ở gò, đi thì hung"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Phất di, trinh hung, thập niên vật dụng, vô du lợi",
+    "nghia": "Trái nuôi, chính hung, mười năm chớ dùng, không thửa lợi"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Điên di, cát, hổ thị đam đam, kỳ dục trục trục vô cữu",
+    "nghia": "Đảo nuôi, tốt, hổ trông hau háu, lòng muốn của nó liền liền, không lỗi"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Phất kinh, cư trinh cát, bất khả thiệp đại xuyên",
+    "nghia": "Trái thường, ở chính tốt, chăng khá sang sông lớn"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Do di, lệ, cát, lợi thiệp đại xuyên",
+    "nghia": "Bởi nuôi, nguy, tốt, lợi sang sông lớn"
+   }
+  }
+ },
+ "28": {
+  "ntt_name": "ĐẠI QUÁ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Tạ dụng bạch mao, vô cữu",
+    "nghia": "Trải dùng cỏ tranh trắng, không lỗi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Khô dương sinh đề, lão phu đắc kỳ nữ thê vô bất lợi",
+    "nghia": "Cây Dương khô mọc rễ, chồng già được vợ con gái, không gì không lợi"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Đống nạo hung!",
+    "nghia": "Cột ỏe, hung!"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Đống long cát, hữu tha, lận",
+    "nghia": "cột cao, tốt; có khí khác, đáng tiếc"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Khô dương sinh huê, lão phụ đác kỳ sỹ phu, vô cữu vô dự",
+    "nghia": "Cây dương khô mọc hoa, vợ già được chồng con trai, không lỗi không khen"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Quả thiệp, diệt đính, hung, vô cữu",
+    "nghia": "Quá lội ngập đỉnh đầu, hung, không lỗi"
+   }
+  }
+ },
+ "29": {
+  "ntt_name": "TẬP KHẢM",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Tập Khảm, nhập vu Khảm tăm hung!",
+    "nghia": "Chỗ hiểm kép, vào cái hố trong chỗ hiểm, hung!"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Khảm hữu hiềm, cầu tiểu đắc",
+    "nghia": "Chỗ trũng có sự hiểm, tìm hơi được"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Lai chi khảm khảm, hiền thả chẩm, nhập vu khảm tãm",
+    "nghia": "Lại đi hiểm hiểm, hiểm vào gối, vào cái hố của hiểm, chớ dùng"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Tôn tửu, quỹ nhị, dụng phẫu, nạp ước tự dũ chung vô cữu",
+    "nghia": "Chén rượu, rá xôi, thêm dùng hồ sành, nộp ước tự cửa sổ tròn, sau chót không lỗi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Khảm bất doanh, chỉ ký bình, vô cữu",
+    "nghia": "Chỗ trũng chẳng đầy, đến đã phẳng, không lỗi"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Hệ dụng huy chiền, chỉ vu tòng cức, tam tuế bất đắc, hung!",
+    "nghia": "Trói dùng chạc thừng, đặt ở bụi gai, ba năm chẳng được, hung!"
+   }
+  }
+ },
+ "30": {
+  "ntt_name": "LY",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Lý thác nhiên, kinh chi vô cữu",
+    "nghia": "Xéo bừa vậy, kính đó không lỗi"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Nhật trắc chi ly, bất cỗ phẫu nhị nhi ca, tắc đại diệt chi ta, hung!",
+    "nghia": "Sự sáng của mặt trời dé. Chẳng gõ chậu sành mà hát, thì là cả già mà than, hung!"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Đột như kỳ lai như, phần như, tử như, khí như!",
+    "nghia": "Đột như thửa lai vậy, cháy vậy, chết vậy, bỏ vậy!"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Thế đà nhược! Thích ta nhược! Cát!",
+    "nghia": "Nước mắt giàn giụa vậy, ngậm ngùi than vậy, tốt!"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Vương dụng xuất chinh, hữu giá, chiết thủ, hoạch phi kỳ sũ, vô cữu",
+    "nghia": "Vua dùng ra đánh, có sự tốt, bẻ đầu, bắt chẳng phải loài, không lỗi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Hoàng Ly, nguyên cát",
+    "nghia": "Vàng sáng, cả tốt"
+   }
+  }
+ },
+ "31": {
+  "ntt_name": "HÀM",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Hàm kỳ mẫu",
+    "nghia": "Cảm thửa ngón chân cái"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Hàm kỳ phi, hung! cư cắt!",
+    "nghia": "Cảm thửa bụng chân hung! Ở yên, tốt!"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Hàm kỳ cổ, chấp kỳ tùy, vãng lận",
+    "nghia": "Cảm thửa đùi, giữ thửa sự theo, đi thì đáng tiếc"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Trinh cát, hối vong, đồng vãng lai, bằng tòng nhĩ tư",
+    "nghia": "Chính bền thì tốt, sự ăn năn sẽ mất; săng sắc đi lại, bạn theo sự nghĩ của mày"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Hàm kỳ môi, vô hối",
+    "nghia": "Cảm thửa thăn thịt, không ăn năn"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Hàm kỳ phụ, giáp, thiệt",
+    "nghia": "Cảm thửa xương má, mép, lưỡi"
+   }
+  }
+ },
+ "32": {
+  "ntt_name": "HẰNG",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Tuấn Hằng, trinh hung, vô du lợi",
+    "nghia": "Đào sâu sự thường, trinh cũng hung, không thửa lợi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Hối vong",
+    "nghia": "Sự ăn năn mất"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Bất hằng kỳ đức, hoặc thừa chi tu, trinh lận",
+    "nghia": "Chẳng thường thửa đức, hoặc vâng đây thẹn, trinh cùng đáng tiếc"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Điền vô cầm",
+    "nghia": "Săn không loài cầm"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Hằng kỳ đức, trinh, phụ nhân cát, phu tử hung",
+    "nghia": "Thường thửa đức, chính, đàn bà tốt, đàn ông hung"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Chấn hằng, hung",
+    "nghia": "Xốc thường, hung"
+   }
+  }
+ },
+ "33": {
+  "ntt_name": "ĐỘN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Độn vỹ, lệ! Vật dụng hữa du vãng",
+    "nghia": "Trốn đuôi, nguy! Chớ dùng có thửa đi"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Chấp chi dụng hoàng ngưu chi cách, mạc chi thắng thoát",
+    "nghia": "Giữ đó, dùng da trâu vàng không ai trút nổi?"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Hệ độn, hữu tật, lệ! Xúc thần thiếp, cát",
+    "nghia": "Vướng trốn, có tật nguy! Nuôi đầy tớ nàng hầu, tốt"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Hiếu độn, quân tử cát, tiểu nhân phủ",
+    "nghia": "Yêu trốn, đấng quân tử tốt, kẻ tiểu nhân không"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Gia Độn, trinh cát",
+    "nghia": "Tốt trốn, chính tốt"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Phì độn, vô bất lợi",
+    "nghia": "Béo trốn, không gì không lợi"
+   }
+  }
+ },
+ "34": {
+  "ntt_name": "ĐẠI TRÁNG",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Tráng vu chỉ, chính hung, hữu phu",
+    "nghia": "Mạnh ở ngón chân, đi thì hung, có tin"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Trình cát",
+    "nghia": "Chính tốt"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Tiểu nhân dụng tráng, quân tử dụng võng, trinh lệ, đê dương xúc phiên, doanh kỳ giốc",
+    "nghia": "Kẻ tiểu nhân dùng mạnh, đấng quân tử dùng chẳng, chính nguy! Dê đực húc giậu, mắc thửa sừng"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Cử Trinh cát, hối vong, phiên quyết bất doanh, tráng vụ đại dư chỉ phúc",
+    "nghia": "Chính thì tốt, ăn năn mất, phên bựt chẳng mắc, mạnh ở vành trục xe lớn"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Táng dương vu dị, vỏ hổi",
+    "nghia": "Mất dê ở sự dễ không ăn năm"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Dê dương xúc phiên, bất năng thoái, bất năng toại, vô du lợi, gian tắc cát",
+    "nghia": "Dê đực húc giậu, chẳng hay lui, chẳng hai toại, không thửa lợi, khó thì tốt"
+   }
+  }
+ },
+ "35": {
+  "ntt_name": "TẤN",
+  "haos": {
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Tấn như, sầu như, trinh cát, thụ tư giới phúc vu kỳ vương mẫu",
+    "nghia": "Dường tiến vậy, dường sầu vậy, chính thì tốt, nhận phúc lớn ấy chưng thuở bà nội"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Chúng doãn, hối vong",
+    "nghia": "Mọi người tin, ăn năn mất"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Tấn như, thạch thử trinh lệ",
+    "nghia": "Dường tiến vậy, con chuột đồng, chính bền, nguy!"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Tấn kỳ dốc, duy dụng phạt ấp, lệ! Cát vô cữu, trinh lận",
+    "nghia": "Tiến thửa sừng, bui dùng đánh làng, lo thì tốt, không lỗi, trinh thì đáng tiếc"
+   },
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Tấn như, tồi như, trình cát, võng phu, dạ vô cữu",
+    "nghia": "Dường tiến lên vậy, dường đun lại vậy, chính thì tốt, chẳng tin, khoan thai không lỗi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Hối vong, thất đắc vật tuất, vãng cát, vô bất lợi",
+    "nghia": "Ăn năn mất, mất được chớ lo, đi thì tốt, không gì không lợi"
+   }
+  }
+ },
+ "36": {
+  "ntt_name": "MINH DI",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Minh di vu phi, thùy kỳ dực; quân tử vu hành, tam nhật bất thực; hữu du vãng; chủ nhân hữu ngôn",
+    "nghia": "Sáng đau chưng bay; đủ thửa cánh; đấng quân tử chưng đi, ba ngày chẳng ăn; có thửa đi; người chủ có nói"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Minh di, di vu tả cổ, dụng chửng, mã tráng cát",
+    "nghia": "Sáng đau, đau ở đùi bên tả, dùng cứu, ngựa mạnh tốt"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Minh di vu nam thù, đắc kỳ đại thủ, bất khả tật trinh",
+    "nghia": "Sáng đau chưng cuộc săn bên nam được thừa đầu lớn, chẳng khá kíp chính"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Nhập vu tả phúc, hoạch minh di chi tâm, vu xuất môn định",
+    "nghia": "Vào chưng bụng bên tả được cái lòng sáng đau: chưng ra cửa sân"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Cơ Tử chi minh di, lợi trinh",
+    "nghia": "ông Cơ Tử chưng sáng đau, lợi về chính bền"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Bất minh hối; sơ đăng vu thiên, hậu nhập vu địa",
+    "nghia": "Chẳng sáng; tối đầu lên chưng trời, sau vào chưng đất"
+   }
+  }
+ },
+ "37": {
+  "ntt_name": "GIA NHÂN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Nhàn hữu gia, hối vong",
+    "nghia": "Ngăn ngừa có nhà, ăn năn mất"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Vô du toại, tại trung quỹ, trinh cát",
+    "nghia": "không thửa thỏa, ở trong, chủ việc ăn uống, chính tốt"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Gia nhân hạc hạc, hối, lệ, cát: phu tử hy hy. chung lận",
+    "nghia": "Người nhà nem nép (?), hối dữ, tốt; vợ con hơn hớn, sau chót thẹn tiếc"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Phú gia, đại cát",
+    "nghia": "Giàu nhà, cả tốt"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Vương cách hữu gia, vật, tuất cát",
+    "nghia": "Vua đến có nhà, chớ lo, tốt"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Hữu phu uy như, chung cát",
+    "nghia": "Có tin, đường oai nghiêm vậy, trọn tốt"
+   }
+  }
+ },
+ "38": {
+  "ntt_name": "KHUÊ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Hối vong: táng mả, vật trục, tự phục, kiến ác nhân, vô cữu",
+    "nghia": "Ăn năn mất, mất ngựa, chớ đuổi theo tự nhiên trở lại, thấy người ác, không lỗi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Ngộ chủ vu hạng, vô cữu",
+    "nghia": "Gặp chúa ở ngõ, không lỗi"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Kiến dư duệ, kỳ ngưu xiết, kỳ nhân, thiên thả ty, vô sơ hữu chung",
+    "nghia": "Thấy xe kéo, thửa trâu kìm, thửa người gọt đầu và xẻo mũi. Không đầu, có chót"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Khuê cô, ngộ nguyên phu, giao phu, lệ, vôcữu",
+    "nghia": "Lìa côi, gặp chàng lành, tin lẫn, nguy, không lỗi"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Hối vong, quyết tôngphệ phu, vãng, hà cữu?",
+    "nghia": "Ăn năn mất, thửa họ cắn da, đi, lỗi gì?"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Khuê cố kiến thỉ phụ đồ, tái quỉ nhất xa, tiên trương chi hồ, hậu thoát chi hồ, phỉ khấu, hôn cấu! Văng, ngộ vũ tắc cát",
+    "nghia": "Lìa cô thấy lợn đội bùn, chở ma một xe, trước giương chưng cung, sau tháo chưng cung, chẳng phải giặc, dâu gia, đi, gặp mưa thì tốt"
+   }
+  }
+ },
+ "39": {
+  "ntt_name": "KIỂN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Vãng kiển, lai dự",
+    "nghia": "Đi kiển, lại khen"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Vương thần kiển kiển, phí cung chi cố",
+    "nghia": "Tôi vua kiển kiển, chẳng phải cớ của mình"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Vâng kiểu lai phản",
+    "nghia": "Đi kiển lại thì lại"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Vãng kiển lai liên",
+    "nghia": "Đi kiển, lại thì liền"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Đại kiển bằng lai",
+    "nghia": "Cả Kiển bạn lại"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Vãng kiển lai thạc, cát, lợi kiến đại nhân",
+    "nghia": "Đi kiển lại lớn, tốt, lợi về sự thấy người lớn"
+   }
+  }
+ },
+ "40": {
+  "ntt_name": "GIẢI",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Vô cữu",
+    "nghia": "Không lỗi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Điền hoạch tam hồ, đắc hoàng thi, trinh cát",
+    "nghia": "Săn được ba con cáo, được tên vàng, chính bền thì tốt"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Phụ thả thừa, tri khấu trí, trinh lận",
+    "nghia": "Đội và cưỡi, dắt giặc đến, chính bền cũng đáng tiếc"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Giải nhi mẫu, bằng chi tư phu",
+    "nghia": "Giải ngón chân cái mày, bằng đến ấy tin"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Quân tử duy hữu giải, cắt, hữu phu vu tiểu nhân",
+    "nghia": "Đấng quân tử chỉ có giải, tốt, có tin chưng kẻ tiểu nhân"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Công dụng xạ chuẩn vu cao dung chi thượng, hoạch chi, vô bất lợi",
+    "nghia": "Ông dùng bắn chim cắt ở trên, tường cao, được nó, không gì không lợi"
+   }
+  }
+ },
+ "41": {
+  "ntt_name": "TỔN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Dĩ sự, xuyền váng, vô cữa, chước tổn chi",
+    "nghia": "Xong việc, mau đi, không lỗi, châm chước mà bớt đấy"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Lợi trinh, chinh hung! Phất tổn, ích chi",
+    "nghia": "Lợi về chính bền, đi thì hung! Chớ bớt, thêm đấy!"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Tam nhân hành tắc tổn nhất nhân, nhất nhân hành tắc đắc kỳ hữu",
+    "nghia": "Ba người đi thì tổn một người, một người đi thì được thửa bạn"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Tổn tôn, sử xuyền hữu hỷ, nguyên cắt, vô cữu",
+    "nghia": "Bớt thửa tật, khiến chóng có mừng, cả tốt, không lỗi"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Hoặc ích chi thập bằng chi quy, phất khắc vi, nguyên cát",
+    "nghia": "Hoặc ích cho đấy, chưng con rùa mười “bằng” chẳng hay trái, cả tốt!"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Phất tổn, ích chi, vô cữu, trinh cát, lợi hữu du vãng, đắc thần vô gia",
+    "nghia": "Chẳng bớt, thêm đấy, không lỗi, chính bền tốt, lợi có thửa đi, được bề tôi không nhà"
+   }
+  }
+ },
+ "42": {
+  "ntt_name": "ÍCH",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Lợi dụng vi đại tác, nguyên cát, vô cữu",
+    "nghia": "Lợi dùng làm việc lớn, cả tốt, không lỗi"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Hoặc ích chi thập bằng chi qui, phất khắc vi vĩnh trinh cát, vương dụng hưởng vu đế, cát!",
+    "nghia": "Hoặc ích đấy, chưng rùa mười bằng chẳng hay trái, vĩnh viễn chính bền, tốt, vua dùng hưởng chưng trời, tốt!"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Ích chi, dụng hung sự, vô cữu, hữu phu, trung hàng, cáo công dụng khuê",
+    "nghia": "Ích đây, dùng việc hung, không lỗi, có tin, đường giữa, bảo tước. Công dùng ngọc khuê"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Trung hành, cáp công tòng, lợi dụng vi y thiên quốc",
+    "nghia": "Đường giữa, tâu tước công theo, lợi dụng làm tựa, dời nước"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Hữa phu, huệ tâm, vật vấn, nguyên cắt, hữu phu, huệ ngã đức",
+    "nghia": "Có tin lòng ơn, chớ hỏi, cả tốt, có tin, ơn đức ta"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Mạc ích chi, hoặc kích chi, lập tâm vật hằng, hung!",
+    "nghia": "Chẳng ích nó, hoặc đánh nó, lập tâm chớ thường hung!"
+   }
+  }
+ },
+ "43": {
+  "ntt_name": "QUẢI",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Tráng vu tiền chỉ, vãng bất thắng, vi cữu",
+    "nghia": "Mạnh chưng ngón chân trước, đi thẳng được, là lỗi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Dịch hào, mộ dạ hữu nhung, vật tuất",
+    "nghia": "Sợ kêu, đêm hôm có quân, chớ ngại"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Tráng vu cưu, hữu hung, quân tử quải quải, độc hành ngộ vũ, nhược nhu, hữu uấn, vô cữu",
+    "nghia": "Mạnh chưng gồ má, có sự hung, đấng quân tử quyết quyết, đi một mình, gặp mưa, đường ướt, có giận, không lỗi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Nghiến lục quải quải, trung hàng vô cữu",
+    "nghia": "Rau sam quyết quyết, đường giữa không lỗi"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Vô hào, chung hữu hung",
+    "nghia": "Không kêu, sau chót có hung"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Điêu vô phu, kỳ hành từ thư, khiên dương, hối vong, văn ngôn bất tín",
+    "nghia": "Đít không da, thửa đi chật vật, dắt dê, ăn năn mất, nghe nói chẳng tin"
+   }
+  }
+ },
+ "44": {
+  "ntt_name": "CẤU",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Hệ vu kim nỷ, trính cát, hữu du vãng, kiến hung, luy thỉ phu chích chúc",
+    "nghia": "Buộc chưng neo sắt, chính tốt, có thửa đi, thấy hung, con lợn còm tin nhảy nhót"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Bao hữu ngư, vô cữu, bất lợi tân",
+    "nghia": "Bọc có cá, không lỗi chẳng lợi khách"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Điến vô phu, kỳ hành từ thư, lệ! Vô đại cữu",
+    "nghia": "Đít không da, thửa đi chật vật, nguy! Không lỗi lớn"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Bao vô ngư, khởi hung",
+    "nghia": "Bọc không cá, dấy hung"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Dĩ kỷ bảo qua, hàm chương, hữu vẫn tự thiên",
+    "nghia": "lấy cây kỷ bọc quả dưa, ngậm văn vẻ, có sa tự trời"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Cầu kỳ giốc, lận, vô cữu",
+    "nghia": "Gặp thửa sừng, đáng tiếc, không lỗi"
+   }
+  }
+ },
+ "45": {
+  "ntt_name": "TỤY",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Hữu phu, bất chung, nãi loạn, nãi tụy, nhược hào, nhất",
+    "nghia": "Có tin, không chót, bèn loạn, bèn họp, bằng kêu, một nắm làm cười, chớ lo, đi không lỗi"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Dẫn cát, vô cữu, phu nãi lợi, dụng Thược",
+    "nghia": "Dẫn tốt, không lỗi, tin bèn lời, dùng tế Thược"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Tụy như, tư như, vô du lợi, vãng vô cữu, tiểu lận",
+    "nghia": "Dường họp vậy, dường than vậy không thửa lợi, đi không lỗi, hơi tiếc"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Đại cát, vô cữu",
+    "nghia": "Cả tốt, không lỗi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Tụy hữu vị, vô cữu, phỉ phu, nguyên vĩnh trinh hối vong",
+    "nghia": "Họp có ngói, không lỗi, chẳng tin, cả, dài, chính, ăn năn mất"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Tê tư, thế di, vô cữu",
+    "nghia": "Than thở, nước mắt, nước mũi, không lỗi"
+   }
+  }
+ },
+ "46": {
+  "ntt_name": "THĂNG",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Doãn thăng, đại cát",
+    "nghia": "Tin lên, cả tốt"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Phu nãi lợi, dụng Thược, vô cữu",
+    "nghia": "Tin bèn lợi, dùng tế Thược, không lỗi"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Thăng hư ấp",
+    "nghia": "Lên làng trống không"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Vượng dụng hưởng vu Kỳ Sơn, cát, vô cữu",
+    "nghia": "Vua dùng hưởng ở núi Kỳ, tốt, không lỗi"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Trinh cát, thăng giai",
+    "nghia": "Chính bền, tốt, lên thềm"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Minh thăng, lợi vu bất tức chi trinh",
+    "nghia": "Tối lên, lợi về sự chính bền chẳng nghĩ"
+   }
+  }
+ },
+ "47": {
+  "ntt_name": "KHỐN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Điến khốn vu châu mộc, nhập vu u cốc, tam tuế bất thục",
+    "nghia": "Đít khốn chưng trồi cây, vào chưng hang tối, ba năm chẳng thấy"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Khốn vu tửu tửu thực, chu phất phương lai, lợi dụng hưởng tự, chính hung, vô cữu",
+    "nghia": "Khốn chưng rượu cơm, cái phất đỏ đương lại, lợi dùng cúng tế, đi hung không lỗi"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Khốn vu thạch, cứ vu tật lệ, nhập vu kỳ cung, bất kiến thê, hung",
+    "nghia": "Khốn chưng đá, vin chưng cây cà gai, vào chưng thửa buồng, chẳng thấy thửa vợ, hung"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Lai từ từ, khốn vu kim xa, lận hữu chung",
+    "nghia": "Lại thong thả, khốn chưng xe sắt, đáng tiếc! có chót"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Ty ngoạt, khốn vu xích phất, nãi từ hữu duyệt, lợi dụng tế dự",
+    "nghia": "Xẻo mũi, chặt chân, khốn chưng cái phất đỏ, bèn thong thả có đẹp lòng, lợi dụng tế tự"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Khốn vu cát lũy, vu nghiết ngột, viết: động hối, hữu hối, chính cát",
+    "nghia": "Khốn chưng cây sắn dây, nhưng cheo leo, rằng: động ăn năn, có ăn năn, đi tốt"
+   }
+  }
+ },
+ "48": {
+  "ntt_name": "TỈNH",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Tỉnh nê bất thực, cựu tỉnh vô cầm Tỉnh mê bất thực, cựu tỉnh vô cầm",
+    "nghia": "Giếng bùn chẳng ăn, giếng cũ không chim"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Tỉnh cốc, xạ phụ, úng tệ lậu",
+    "nghia": "Giếng hang, bắn loài ếch nhái, vò nát dò"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Tỉnh điệp bất thực, vi ngã tâm trắc, khả dụng cấp, vương minh, tịnh thụ kỳ phúc",
+    "nghia": "Giếng trong chẳng ăn, làm sự bùi ngùi cho lòng ta, khá dùng múc nước; vua sáng, cùng chịu thửa phúc"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Tỉnh thịu, vô cữu",
+    "nghia": "Giếng xây bờ, không lỗi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Tỉnh liệt, hàn toàn thực",
+    "nghia": "Giếng mát, suối lạnh, ăn"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Tỉnh thu, vật mục, hữu phu, nguyên cát",
+    "nghia": "Giếng thu, chớ chùm, có tin, cả tốt"
+   }
+  }
+ },
+ "49": {
+  "ntt_name": "CÁCH",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Củng dụng hoàng ngưu chi cách",
+    "nghia": "Giàng bó dùng da trâu vàng"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Dĩ nhật nãi cách chi, chinh cát, vô cữu",
+    "nghia": "Hết ngày bèn đổi đấy, đi tốt, không lỗi"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Chính hung trinh lệ, cách ngôn tam tựu, hữu phu",
+    "nghia": "Đi hung, chính nguy, nói đổi ba nên có tin"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Hối vong, hữu phu, cải mệnh cát",
+    "nghia": "Ăn năn mất, có tin đổi mệnh tốt"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Đại nhân hổ biến, vị chiêm hữu phu",
+    "nghia": "Người lớn cọp biến, chưa xem có tin"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Quân tử báo biến, tiểu nhân cách diện, chính hung, cư trinh",
+    "nghia": "Đấng quân tử beo biến, kẻ tiểu nhân đổi mặt, đi hung, ở chính"
+   }
+  }
+ },
+ "50": {
+  "ntt_name": "ĐỈNH",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Đỉnh điên chỉ, lợi xuất bĩ, đắc thiếp dĩ kỳ tử, vô cữu",
+    "nghia": "Vạc chổng chân, lợi ra vật hư xấu, được, nàng hầu, lấy thửa con, không lỗi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Đỉnh hữu thật, ngã cừu hữu tật, bất ngã năng tức, cát!",
+    "nghia": "Vạc có cái chứa, kẻ thù ta có tật, chẳng ta hay tới, tốt!"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Đỉnh nhĩ cách, kỳ hành tắc, trĩ cao bất thực, phương vũ, khuy hối chung, cát",
+    "nghia": "Tai vạc đổi, thửa đi lấp, mỡ con chim trĩ không ăn, đang mưa, ăn năn về thiếu, chọn tốt"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Đỉnh chiết túc, phúc công tốc, kỳ hình ốc, hung!",
+    "nghia": "Vạc gẫy chân, đổ đồ ăn của Ông, thửa tội giết kín hung!"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Đỉnh hoàng nhĩ, kim huyên, lợi trinh",
+    "nghia": "Vạc tai vàng, quai màu vàng, lợi về chính bền"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Đỉnh ngọc huyên, đại cát, vô bất lợi",
+    "nghia": "Đỉnh quai ngọc, cả tốt, không gì không lợi"
+   }
+  }
+ },
+ "51": {
+  "ntt_name": "CHẤN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Chấn lai khích khích, hậu tiếu ngôn ách ách cát",
+    "nghia": "Nhức lại ngơm ngớp, sau cười nói khanh khách, tốt"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Chấn lai lệ ức, táng bối, tê vu cửu lăng, vật trục, thất nhật đắc",
+    "nghia": "Nhức lại, nguy đồ (?) mất của, lên chân chín gò, chớ đuổi, bảy ngày được"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Chấn toại nê",
+    "nghia": "Nhức bèn đắm"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Chấn vãng lai lệ, ức vô táng hữu",
+    "nghia": "Nhức đi lại nguy, đồ (?) không mất cái có"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Chấn tắc tác, thị quắc quắc, chinh hung chấn bất vu kỳ cung, vu kỳ lân, vồ cữu, hôn cấu hữu ngôn",
+    "nghia": "Nhức xơ xác, trông ngơ ngác, đi thì hung; nhức chẳng chưng thửa mình, chưng thửa láng giềng, không lỗi, dâu gia có nói"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Chấn tô tô, chấn hành vô sảnh",
+    "nghia": "Nhức, thom thỏm, nhức đi, không tội"
+   }
+  }
+ },
+ "52": {
+  "ntt_name": "CẤN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Cấn kỳ chỉ, vô cữu, lợi vĩnh trinh",
+    "nghia": "Đậu thửa ngón chân, không lỗi, lợi về dài lâu chính bền"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Cấn kỳ phì, bất chủng kỳ tùy, kỳ tâm bất khoái",
+    "nghia": "Đậu thửa bụng chân, chẳng cứu thửa theo, thửa lòng chẳng sướng"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Cấn kỳ hạn, liệt kỳ di, lệ huân tâm",
+    "nghia": "Đậu thửa hạn, xé thửa thăn, nguy hun lòng"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Cấn kỳ thân, vô cữu",
+    "nghia": "Đậu thửa mình, không lỗi"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Cấn kỳ phụ ngôn hữu tự, hối vong",
+    "nghia": "Đậu thửa mép, nói có thứ tự, ăn năn mất"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Đôn Cấn, cát",
+    "nghia": "Hào Chín Trên - Dầy đậu, tốt"
+   }
+  }
+ },
+ "53": {
+  "ntt_name": "TIỆM",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Hồng tiệm vu can, tiểu tử lệ, hữu ngôn, vô cữu",
+    "nghia": "Con sếu tiến chưng bến, trẻ nhỏ nguy, có nói, không lỗi"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Hồng tiệm vu lục, phu chinh bất phục, phụ dựng bất dục, hung, lợi ngữ khấu",
+    "nghia": "Con sếu tiến chưng đất liền, chồng đi chẳng lại, vợ chửa chẳng nuôi, hung, lợi về chống giặc"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Hồng tiệm vu mộc, hoắc đắc kỳ giốc, vô cữu",
+    "nghia": "Con sếu tiến chưng cây, hoặc được thửa cành ngang, không lỗi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Hồng tiệm vu lăng, phụ tam tuế bất dựng, chung mạc chi thắng, cát",
+    "nghia": "Con sếu tiến chưng gò, vợ ba năm chẳng chửa, trọn chẳng gì thắng, tốt"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Hồng tiệm vu quỳ, kỳ vũ khả dụng vi nghi, cát",
+    "nghia": "con sếu tiến chưng đường mây, lộng nó khá dùng làm miều cờ, tốt"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Hồng tiệm vu bàn, ẩm thực hãn hãn",
+    "nghia": "Con sếu tiến chưng tảng đá, ăn uống hơn hớn",
+    "va": true
+   }
+  }
+ },
+ "54": {
+  "ntt_name": "QUI MUỘI",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Quy muội dĩ đệ, bí năng lý, chinh cát",
+    "nghia": "Em gái về nhà chồng bằng vợ lẽ, quẻ biết xẻo, đi tốt"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Diểu năng thị, lợi u nhân chi trinh",
+    "nghia": "Chột biết trông, lợi về sự chính bền của bậc u nhân"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Qui muội dĩ tu, phản qui dĩ đệ",
+    "nghia": "Em gái về bằng sự đợi, lại về bằng vợ lẽ"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Qui muội khiên kỳ, trì qui hữu thì",
+    "nghia": "Em gái về nhà chồng lỗi hẹn, chậm về có thời"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Đế Ất qui muội, kỳ quân chi quệ, bất như kỳ đệ chi quệ lương, nguyệt cơ vọng, cát!",
+    "nghia": "Vua Đế Ất gả chồng em gái, vạt áo của vua nó không đẹp bằng vạt áo của vợ lẽ nó. Mặt trăng hầu tuần vọng, tốt!"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Nữ thừa khuông, vô thật: sĩ khuê dương vô huyết; vô du lợi",
+    "nghia": "Con gái vâng giỏ, không đồ đựng; con trai giết dê, không máu; không thửa lợi"
+   }
+  }
+ },
+ "55": {
+  "ntt_name": "PHONG",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Ngọ kỳ phối chủ, tuy tuần vô cữu, vãng hữu thượng",
+    "nghia": "Gặp thử chủ sánh dẫn đều không lỗi, đi có chuộng"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Phong kỳ bộ, nhật trung kiến Đẩu, vãng đắc nghi tật, hữu phu phát nhược, cát",
+    "nghia": "Thịnh thửa trướng mặt trời giữa thấy sao Đẩu, đi được ngờ ghét, có tin dường mở ra vậy tốt"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Phong kỳ bái, nhật trung kiến mạt, triết kỳ hữu quãng, vô cữu",
+    "nghia": "Thịnh thửa màn, mặt trời giữa thấy sao Mạt, gãy thửa cánh tay phải, không lỗi"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Phong kỳ bộ, nhật trung kiến Đẩu, ngộ kỳ di chủ, cát",
+    "nghia": "Thịnh thửa trướng, mặt trời giữa thấy sao Đẩu, gặp thửa chủ ngang tốt"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Lai chương hữu khánh dự, cát",
+    "nghia": "Lại đẹp có phúc khen, tốt"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Phong kỳ ốc, bộ kỳ gia, khuy kỳ hộ, khuých kỳ vô nhân, tam tuế bất thục, hung",
+    "nghia": "Thịnh thửa mái, che thửa nhà nhòm thửa cửa, hiu quạnh thửa không người, ba năm chẳng thấy, hung"
+   }
+  }
+ },
+ "56": {
+  "ntt_name": "LỮ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Lữ tỏa tỏa, tư kỳ sơ thủ tai",
+    "nghia": "Hành lữ nhỏ mọn, ấy là cái lấy vạ"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Lữ tức thứ, hoài kỳ tư, đắc đồng bộc trinh",
+    "nghia": "Hành lữ tới chỗ trọ, ôm thửa của, được thằng"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Lữ phần kỳ thứ, táng kỳ đồng bộc, trinh lệ",
+    "nghia": "Hành lữ cháy thửa nhà trợ, mất thửa thằng nhỏ, đầy tớ, chính bền nguy"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Lữ vu xử, đắc kỳ tư phủ, ngã tâm bất khoái",
+    "nghia": "Hành lữ chưng ở, được thửa của búa, lòng ta chẳng sướng"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Xã trĩ, nhất thỉ vong, chung dĩ dự mệnh",
+    "nghia": "Bắn chim trĩ, một phát tên mất, chọn lấy khen mệnh"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Điểu phần kỳ sào, lữ nhân tiên tiếu, hậu hào diêu, táng ngưu vu dị, hung!",
+    "nghia": "Chim cháy thửa tổ, kẻ hành lữ trước cười, sau kêu gào, mất trâu chưng dễ dàng, hung!"
+   }
+  }
+ },
+ "57": {
+  "ntt_name": "TỐN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Tiến thoái, lợi vũ nhân chi trinh",
+    "nghia": "Tiến lui, lợi về sự chính bền của người võ"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Tôn tại sàng hạ, dựng sử vu phân nhược, cát! Vo cữu!",
+    "nghia": "Nhún ở dưới giường , dùng thày bói, thày cúng bời bời vậy, tốt! Không lỗi! GỊẢI NGHĨA"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Tần tốn lận",
+    "nghia": "Liền nhún, đáng tiếc"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Hối vong, điền hoạch tam phẩm",
+    "nghia": "Ăn năn mất, săn được ba phẩm"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Trinh cát, hối vong, vô bất lợi, vô cơ hữu chung, tiêu canh tam nhật, hâu canh tam nhật, cát",
+    "nghia": "Chính bền tốt, ăn năn mất, không gì lợi, không đầu có chót, trước canh bà ngày, sau canh ba ngày tốt!"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Tốn tại sàng hạ, táng kỳ tư phủ, hung!",
+    "nghia": "Nhún ở dưới giường, mất thửa của búa, hung!"
+   }
+  }
+ },
+ "58": {
+  "ntt_name": "ĐOÁI",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Hòa đoái, cát!",
+    "nghia": "Hòa đẹp lòng, tốt!"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Phu đoái cát, hối vong",
+    "nghia": "Tin đẹp lòng, tôt ăn năn mất"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Lai đoái, hung!",
+    "nghia": "Lại đẹp lòng hung!"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Thượng đoái, vị ning, giới tật, hữu hỷ",
+    "nghia": "Đắn đo đẹp lòng chưa yên, thẳng ghét, có mừng"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Phu vu hấc, hữu lệ",
+    "nghia": "Tin chung đẽo, có nguy"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Dẩn đoái",
+    "nghia": "Dẫn đẹp lòng"
+   }
+  }
+ },
+ "59": {
+  "ntt_name": "HOÁN",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Chửng mã tráng, cát",
+    "nghia": "Vớt ngựa mạnh, tốt"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "hoán bôn kỳ ngột, hối vong",
+    "nghia": "Tan chạy thửa ghế! Ăn năn mất"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Hoán kỳ cung, vô hối",
+    "nghia": "Tan thửa mình, không ăn năn"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Hoán kỳ quân, nguyên cát; hoán hữu khâu, phi di sở tư",
+    "nghia": "Tan thửa đàn, cả tốt; tan có gò, chẳng phải thường thửa nghĩ"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Hoán hãn kỳ đại hiệu, hoán vương cư, vô cữu",
+    "nghia": "Tan bồ hôi thửa hiệu lớn, tan chỗ ở của vua, không lỗi"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "hoán kỳ huyết khứ, địch, xuất, vô cữu",
+    "nghia": "Tan thửa máu đi, rùng rợn ra, không lỗi"
+   }
+  }
+ },
+ "60": {
+  "ntt_name": "TIẾT",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "bất xuất hộ đình, vô cữu",
+    "nghia": "Chẳng ra sân cửa, không lỗi"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "bất xuất môn đình, hung",
+    "nghia": "Chẳng ra sân cổng, hung"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Bất tiết nhược, tắt ta nhược, vô cữu",
+    "nghia": "Chẳng dè dặt vậy, thì than thở vậy, không lỗi"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "An tiết, hanh",
+    "nghia": "Yên dè dặt, hanh"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Cam tiết, cát vãng hữu thượng",
+    "nghia": "Sự dè dặt ngọt, tốt, đi có chuộng"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Khổ tiết, trinh hung, hối vong",
+    "nghia": "Sự dè dặt khổ, chính bền hung, ăn năn mất"
+   }
+  }
+ },
+ "61": {
+  "ntt_name": "TRUNG PHU",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Ngu cát, hữu tha, bất yên",
+    "nghia": "Lo tốt, có khác, chẳng yên"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Minh hạc tại âm, kỳ tủ họa chi; ngã hữu hảo tước, ngô dữ nhi my chi",
+    "nghia": "Con Hạc kêu ở chỗ tối, con nó họa đấy, ta có tước tốt, tớ cùng mày ràng đấy"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Đắc địch, hoặc cổ hoặc bãi, hoặc khấp hoặc ca",
+    "nghia": "Được kẻ địch, hoặc khua trông, hoặc thôi, hoặc khóc, hoặc múa"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Nguyệt cơ vọng, mà xuất vong, vô cữu",
+    "nghia": "mặt trăng hầu tuần vọng, đôi ngựa mất , không lỗi"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Hữu phu loan như, vô cữu",
+    "nghia": "Có tin dường như co quắp vậy, không lỗi"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Hàn âm đăng vu thiên, Trinh hung",
+    "nghia": "Tiếng cánh lên chưng trời, chính bền hung"
+   }
+  }
+ },
+ "62": {
+  "ntt_name": "TIỂU QUÁ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Phi điểu dĩ hung",
+    "nghia": "Chim bay lấy hung"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Quá kỳ tổ, ngộ kỳ tỷ, bất cập kỳ quân, ngộ kỳ thần, vô cữu",
+    "nghia": "Quá thửa ông, gặp thửa bà; chẳng kịp thửa vua, gặp thửa bề tôi, không lỗi"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Phất quá phòng chi, tòng hoặc tường chi, hung!",
+    "nghia": "Chẳng quá ngừa đó, theo hoặc hại đó, hung!"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Vô Cữu, phất quá ngộ chi, vãng lệ, tất giới vật dụng vĩnh trinh",
+    "nghia": "Không lỗi chẳng quá gặp đấy, đi nguy, ắt răn, chớ dùng dài lâu chính bền"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "mật vân bất vũ, tự ngã tây giao, công dặc thủ bỉ, tại huyệt",
+    "nghia": "Mây dầy chẳng mưa, ở cõi tây ta, ông bắn lấy nó ở hang"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Phất ngộ quá chi, phi điểm ly chi, hung thị vị tai sảnh",
+    "nghia": "Chẳng gặp, quá đây, chim bay lìa đấy, hung, ấy rằng vạ tội"
+   }
+  }
+ },
+ "63": {
+  "ntt_name": "KÝ TẾ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Cửu",
+    "am": "Duệ kỳ luân, nhu kỳ vy, vô cữu",
+    "nghia": "Kéo thửa bánh xe, ướt thửa đuôi không lỗi"
+   },
+   "2": {
+    "ten": "Lục Nhị",
+    "am": "Phụ táng kỳ phất, vật trục, thất nhật đắc",
+    "nghia": "Đàn bà mất thửa khăn trùm chớ đuổi bảy ngày được"
+   },
+   "3": {
+    "ten": "Cửu Tam",
+    "am": "Cao Tông phạt Quỷ Phương, tam nhiên khắc chi, tiểu nhân vật dụng",
+    "nghia": "Vua Cao Tông đánh nước Quỷ Phương, ba năm được đấy, kẻ tiểu nhân chờ dùng"
+   },
+   "4": {
+    "ten": "Lục Tứ",
+    "am": "Nhu hữu y như, chung nhật giới",
+    "nghia": "ướt có áo giẻ, trọn ngày răn"
+   },
+   "5": {
+    "ten": "Cửu Ngũ",
+    "am": "Đông lân sát ngưu, bất như tây lân chi thược tế, thật thụ kỳ phúc",
+    "nghia": "Láng giềng bên Đông giết trâu, chẳng bằng láng giềng bên Tây tế Thược, thật chịu thửa phúc"
+   },
+   "6": {
+    "ten": "Thượng Lục",
+    "am": "Nhu kỳ thủ, lệ!",
+    "nghia": "Ướt thửa đầu, nguy!"
+   }
+  }
+ },
+ "64": {
+  "ntt_name": "VỊ TẾ",
+  "haos": {
+   "1": {
+    "ten": "Sơ Lục",
+    "am": "Nhu kỳ vĩ lận!",
+    "nghia": "Ướt thửa đuôi, tiếp đáng!"
+   },
+   "2": {
+    "ten": "Cửu Nhị",
+    "am": "Duệ kỳ luân, trinh cát",
+    "nghia": "Kéo thửa bánh xe, chính bền, tốt"
+   },
+   "3": {
+    "ten": "Lục Tam",
+    "am": "Vị tế chinh hung, lợi thiệp đại xuyên",
+    "nghia": "Chưa sang đi hung, lợi về sang sông lớn"
+   },
+   "4": {
+    "ten": "Cửu Tứ",
+    "am": "Trinh cát, hối vong, chấn dụng phát Quỷ Phương, Tam niên hữu thương vu đại quốc",
+    "nghia": "Chính bền, ăn năn mất, nhức dùng đánh nước Quỷ Phương, ba năm, có thương chưng nước lớn"
+   },
+   "5": {
+    "ten": "Lục Ngũ",
+    "am": "Trinh cát, vong hối, quân tử chi quang, hữu phu, cát",
+    "nghia": "chính bền tốt, không ăn năn, sự sáng của đấng quân tử, có tin tốt"
+   },
+   "6": {
+    "ten": "Thượng Cửu",
+    "am": "Hữu Phu vu ẩm tửu, vô cữu, nhu kỳ thủ, hữu phu, thất thị",
+    "nghia": "có tin chưng uống rượu, không lỗi, ướt thửa đầu, có tin, mất phải"
+   }
+  }
+ }
+}
